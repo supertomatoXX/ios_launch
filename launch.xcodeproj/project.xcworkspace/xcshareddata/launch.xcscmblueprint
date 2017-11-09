@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1e807da8-c1b4-4fc3-9905-08330d4521b0++5431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1e807da8-c1b4-4fc3-9905-08330d4521b0++5431" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1e807da8-c1b4-4fc3-9905-08330d4521b0++5431" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E6AEA6CC-3B5D-456A-9734-4273F93AF9D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1e807da8-c1b4-4fc3-9905-08330d4521b0++5431" : "ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "launch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "launch\/launch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/repos.assets.qtz\/q3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1e807da8-c1b4-4fc3-9905-08330d4521b0++5431"
+    }
+  ]
+}
